@@ -38,7 +38,7 @@ def evolve_population(target, population_size, mutation_rate):
         generation += 1
 
 if __name__ == "__main__":
-    target_string = "Hello, World!"
+    target_string = "Hi, Hyunwoo Kim!"
     population_size = 100
     mutation_rate = 0.01
     evolve_population(target_string, population_size, mutation_rate)
